@@ -19,7 +19,7 @@ import java.util.logging.Logger;
 
 /**
  * 
- * @author jorgesaw
+ * @author jorgesaw@github.com
  */
 
 // Clase para trabajar con el patròn Singleton.
