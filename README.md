@@ -1,4 +1,4 @@
-Capa-abstracci-n-DB
-===================
+# Abstraction layer for database
 
-Es una capa de abstracción de base de datos para usar en java. Utiliza el patrón Singleton.
+
+It is a database abstraction layer to use in java. Use the Singleton pattern.
